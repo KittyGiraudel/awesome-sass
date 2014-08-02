@@ -92,6 +92,7 @@ A curated list of awesome Sass.
 ## Screencasts
 
 * [SassBites #42](https://www.youtube.com/watch?v=H6Y9r49InXo&feature=youtu.be)
+* [Podcast at CDN](https://cdnify.com/blog/sassdoc-document-sass-files-functions-mixins/)
 
 ## CodePen / SassMeister
 
