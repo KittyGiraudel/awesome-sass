@@ -55,6 +55,8 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [Sass 3.4 is out!](http://www.sitepoint.com/sass-3-4-is-out/) at SitePoint (22-08-2014)
+* [What's up with SassDoc 1.2?](http://webdesign.tutsplus.com/articles/new-features-and-a-new-look-for-sassdoc--cms-21914) at Tuts+ (12-08-2014)
 * [Keep Sass Simple](http://www.sitepoint.com/keep-sass-simple/) at SitePoint (30-07-2014)
 * [Using Sass to build color palettes](http://www.sitepoint.com/using-sass-build-color-palettes/) at SitePoint (17-07-2014)
 * [How to check for dependencies in Sass libraries](http://webdesign.tutsplus.com/tutorials/how-to-check-for-dependencies-in-sass-libraries--cms-21558?_ga=1.200178030.119067414.1397820966) at Tuts+ (02-07-2014)
