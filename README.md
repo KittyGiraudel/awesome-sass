@@ -95,6 +95,7 @@ A curated list of awesome Sass.
 * [My favourite Sass tools](http://www.sitepoint.com/my-favorite-sass-tools/) at SitePoint (22-04-2014)
 * [Caching values from Sass mixins](http://www.sitepoint.com/caching-values-sass-mixins/) at SitePoint (15-04-2014)
 * [Cross @media queries @extend directive in Sass](http://www.sitepoint.com/cross-media-query-extend-sass/) at SitePoint (10-04-2014)
+* [Sass Unit Testing](http://mts.io/2014/04/02/sass-unit-testing/) at Matias Singers (02-04-2014)
 * [A creative grid system with Sass and calc()](http://www.sitepoint.com/creative-grid-system-sass-calc/) at SitePoint (27-03-2014)
 * [Creating a Rainbow Border with Sass](http://www.sitepoint.com/rainbow-border-with-sass/) at SitePoint (18-03-2014)
 * [Implementing the Bubble Sort algorithm in Sass](thesassway.com/advanced/implementing-bubble-sort-with-sass) at TheSassWay (17-03-2014)
