@@ -56,6 +56,7 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/) at SitePoint (21-10-2014)
 * [Building a step wizard with BEM and Sass](http://www.sitepoint.com/building-step-wizard-bem-sass/) at SitePoint (02-10-2014)
 * [Beware of selector nesting in Sass](http://www.sitepoint.com/beware-selector-nesting-sass/) at SitePoint (25-09-2014)
 * [A bulletproof function to validate lengths in Sass](http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/) at SitePoint (10-09-2014)
