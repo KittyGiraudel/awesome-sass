@@ -4,7 +4,7 @@ A curated list of awesome Sass.
 
 ## GitHub repositories
 
-* [SassDoc](https://github.com/HugoGiraudel/SassDoc): like JSDoc for Sass files
+* [SassDoc](https://github.com/HugoGiraudel/SassDoc): release the docs!
 * [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
 * [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON): a JSON encoder/decoder in Sass
@@ -16,6 +16,9 @@ A curated list of awesome Sass.
 
 ## On [my blog](http://hugogiraudel.com)
 
+* [Calculating specificity in Sass](http://hugogiraudel.com/2014/11/25/specificity-in-sass/) by David Khourshid (25-11-2014)
+* [Rethinking Atwood's law](http://hugogiraudel.com/2014/10/27/rethinking-atwoods-law/) (27-10-2014)
+* [Translation system in Sass](http://hugogiraudel.com/2014/10/22/translation-system-in-sass/) (22-10-2014)
 * [SassDoc and semantic versioning](http://hugogiraudel.com/2014/09/01/sassdoc-and-semantic-versioning/) (01-09-2014)
 * [Automating CSS animations with Sass](http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/) (16-07-2014)
 * [Building a customization API in Sass](http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/) by Ezekiel Gabrielse (01-07-2014)
@@ -56,6 +59,10 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [FR] [Quand Sass ne rend plus service](http://www.24joursdeweb.fr/2014/quand-sass-ne-rend-plus-service/) for 24 Jours du Web (01-12-2014)
+* [Sass Multiple Arguments, Lists or Arglists](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/) at SitePoint (20-11-2014)
+* [Dealing with constants in Sass](http://www.sitepoint.com/dealing-constants-sass/) at SitePoint (28-10-2014)
+* [Cubic Bezier representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass) with Tim Severien at The Sass Way (26-10-2014)
 * [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/) at SitePoint (21-10-2014)
 * [Building a step wizard with BEM and Sass](http://www.sitepoint.com/building-step-wizard-bem-sass/) at SitePoint (02-10-2014)
 * [Beware of selector nesting in Sass](http://www.sitepoint.com/beware-selector-nesting-sass/) at SitePoint (25-09-2014)
@@ -104,6 +111,9 @@ A curated list of awesome Sass.
 
 ## CodePen / SassMeister
 
+* [Functional programming](https://sassmeister.com/gist/c36be3440dc2b5ae9ba2)
+* [Fixing Sass / Grid layout bug](https://sassmeister.com/gist/309a459ee3a625b2ab32)
+* [Advanced type checking](https://sassmeister.com/gist/2933ef053ae0bf70ad8b)
 * [Dealing with context and events in a friendly way](https://sassmeister.com/gist/2f733e56552243ac9881)
 * [A new clamp function](https://sassmeister.com/gist/8d24cb970d1b5f90841a)
 * [Proxifying functions and mixins](https://sassmeister.com/gist/dda526ebe495b37714f2)
