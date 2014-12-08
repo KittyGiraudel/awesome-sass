@@ -12,6 +12,8 @@ A curated list of awesome Sass.
 * [SassyMatrix](https://github.com/HugoGiraudel/SassyMatrix): a collection of functions to manipulate matrices
 * [SassySort](https://github.com/HugoGiraudel/SassySort): a Sass sorting function using various algorithms
 * [SassyStrings](https://github.com/Team-Sass/Sassy-Strings): a collection of functions to manipulate strings
+* [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
+* [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
 
 
 ## On [my blog](http://hugogiraudel.com)
