@@ -14,6 +14,7 @@ A curated list of awesome Sass.
 * [SassyStrings](https://github.com/Team-Sass/Sassy-Strings): a collection of functions to manipulate strings
 * [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
 * [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
+* [SassyIterators](https://github.com/HugoGiraudel/SassyIterators): iterators implementation in Sass
 
 
 ## On [my blog](http://hugogiraudel.com)
