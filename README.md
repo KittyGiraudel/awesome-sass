@@ -4,7 +4,8 @@ A curated list of awesome Sass.
 
 ## GitHub repositories
 
-* [SassDoc](https://github.com/HugoGiraudel/SassDoc): release the docs!
+* [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
+* [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
 * [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
 * [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON): a JSON encoder/decoder in Sass
@@ -62,6 +63,9 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [Functional wrappers in Sass](http://www.sitepoint.com/functional-wrappers-sass/) at SitePoint (18-12-2014)
+* [Why you should avoid Sass `@extend`](http://www.sitepoint.com/avoid-sass-extend/) at SitePoint (11-12-2014)
+* [Building a linear gradient mixin](http://www.sitepoint.com/building-linear-gradient-mixin-sass/) at SitePoint (02-12-2014)
 * [FR] [Quand Sass ne rend plus service](http://www.24joursdeweb.fr/2014/quand-sass-ne-rend-plus-service/) for 24 Jours du Web (01-12-2014)
 * [Sass Multiple Arguments, Lists or Arglists](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/) at SitePoint (20-11-2014)
 * [Dealing with constants in Sass](http://www.sitepoint.com/dealing-constants-sass/) at SitePoint (28-10-2014)
