@@ -5,6 +5,7 @@ A curated list of awesome Sass.
 ## GitHub repositories
 
 * [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
+* [Sass Guidelines](http://sass-guidelin.es): Styleguide for writing sane, maintainable and scalable Sass
 * [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
 * [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
 * [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
