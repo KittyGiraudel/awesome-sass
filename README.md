@@ -111,6 +111,7 @@ A curated list of awesome Sass.
 * [MetaFizzy effect with Sass](http://css-tricks.com/metafizzy-effect-with-sass/) at CSS-Tricks (12-08-2013)
 * [Looking into the future of Sass](http://davidwalsh.name/future-sass) at David Walsh' (17-07-2013)
 * [Create Striped Backgrounds With Gradients (and a Sass Mixin)](http://css-tricks.com/striped-background-gradients/) at CSS-Tricks (09-07-2013)
+* [Balancing Complexity in Sass](http://chriseppstein.github.io/blog/2014/06/23/balancing-complexity/) at Chris Eppstein (23-06-2015)
 
 ## Screencasts
 
