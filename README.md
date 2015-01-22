@@ -5,7 +5,7 @@ A curated list of awesome Sass.
 ## GitHub repositories
 
 * [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
-* [Sass Guidelines](http://sass-guidelin.es): Styleguide for writing sane, maintainable and scalable Sass
+* [Sass Guidelines](http://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
 * [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
 * [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
 * [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
@@ -21,6 +21,7 @@ A curated list of awesome Sass.
 
 ## On [my blog](http://hugogiraudel.com)
 
+* [Introducing Sass Guidelines](http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/) (07-01-2014)
 * [Calculating specificity in Sass](http://hugogiraudel.com/2014/11/25/specificity-in-sass/) by David Khourshid (25-11-2014)
 * [Rethinking Atwood's law](http://hugogiraudel.com/2014/10/27/rethinking-atwoods-law/) (27-10-2014)
 * [Translation system in Sass](http://hugogiraudel.com/2014/10/22/translation-system-in-sass/) (22-10-2014)
@@ -64,6 +65,9 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [The Ultimate Long-Shadow Mixin](http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/) at SitePoint (22-01-2015)
+* [Extra Map Functions in Sass](http://www.sitepoint.com/extra-map-functions-sass/) at SitePoint (15-01-2015)
+* [Introducing Sass-Compatibility](http://www.sitepoint.com/introducing-sass-compatibility/) at SitePoint (23-12-2014)
 * [Functional wrappers in Sass](http://www.sitepoint.com/functional-wrappers-sass/) at SitePoint (18-12-2014)
 * [Why you should avoid Sass `@extend`](http://www.sitepoint.com/avoid-sass-extend/) at SitePoint (11-12-2014)
 * [Building a linear gradient mixin](http://www.sitepoint.com/building-linear-gradient-mixin-sass/) at SitePoint (02-12-2014)
