@@ -126,6 +126,10 @@ A curated list of awesome Sass.
 
 ## CodePen / SassMeister
 
+* [Assert system](https://sassmeister.com/gist/8b3d421c1e369ca5c88b)
+* [Simple nth-of-type for IE](https://sassmeister.com/gist/5a9558e4f2c9d82a70df)
+* [trim() function](https://sassmeister.com/gist/9eaa43a4a5de27647ca8)
+* [Multiple properties sharing same value](https://sassmeister.com/gist/d342346d864467964b27)
 * [Functional programming](https://sassmeister.com/gist/c36be3440dc2b5ae9ba2)
 * [Fixing Sass / Grid layout bug](https://sassmeister.com/gist/309a459ee3a625b2ab32)
 * [Advanced type checking](https://sassmeister.com/gist/2933ef053ae0bf70ad8b)
