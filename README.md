@@ -21,7 +21,8 @@ A curated list of awesome Sass.
 
 ## On [my blog](http://hugogiraudel.com)
 
-* [Introducing Sass Guidelines](http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/) (07-01-2014)
+* [Translating Sass Guidelines](http://hugogiraudel.com/2015/02/03/translating-sass-guidelines/) (03-02-2015)
+* [Introducing Sass Guidelines](http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/) (07-01-2015)
 * [Calculating specificity in Sass](http://hugogiraudel.com/2014/11/25/specificity-in-sass/) by David Khourshid (25-11-2014)
 * [Rethinking Atwood's law](http://hugogiraudel.com/2014/10/27/rethinking-atwoods-law/) (27-10-2014)
 * [Translation system in Sass](http://hugogiraudel.com/2014/10/22/translation-system-in-sass/) (22-10-2014)
@@ -65,6 +66,8 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [Why I Don't Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/) at SitePoint (10-02-2015)
+* [SassDoc 2 Shiny Streamy Octopus is Out](http://www.sitepoint.com/sassdoc-2-shiny-streamy-octopus/) at SitePoint (05-02-2015)
 * [The Ultimate Long-Shadow Mixin](http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/) at SitePoint (22-01-2015)
 * [Extra Map Functions in Sass](http://www.sitepoint.com/extra-map-functions-sass/) at SitePoint (15-01-2015)
 * [Introducing Sass-Compatibility](http://www.sitepoint.com/introducing-sass-compatibility/) at SitePoint (23-12-2014)
