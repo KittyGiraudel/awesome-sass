@@ -113,7 +113,7 @@ A curated list of awesome Sass.
 * [Is Compass to Sass what jQuery is to JavaScript](http://www.sitepoint.com/compass-sass-jquery-javascript/) at SitePoint (17-02-2014)
 * [A Sass component in 10 minutes](http://www.sitepoint.com/sass-component-10-minutes/) at SitePoint (12-01-2014)
 * [What nobody told you about Sass @extend](http://www.sitepoint.com/sass-extend-nobody-told-you/) at SitePoint (05-02-2014)
-* [Sass: Mixin or placeholder?](www.sitepoint.com/sass-mixin-placeholder/) at SitePoint (31-01-2014)
+* [Sass: Mixin or placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/) at SitePoint (31-01-2014)
 * [How to programmatically go from one color to another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass) at TheSassWay (30-01-2014)
 * [Math sequences with Sass](http://thesassway.com/advanced/math-sequences-with-sass) at TheSassWay (14-10-2013)
 * [MetaFizzy effect with Sass](http://css-tricks.com/metafizzy-effect-with-sass/) at CSS-Tricks (12-08-2013)
