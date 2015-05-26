@@ -67,6 +67,7 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [Sass Theming: The Neverending Story](http://www.sitepoint.com/sass-theming-neverending-story/) at SitePoint (26-05-2015)
 * [Understanding Sass Units](http://www.sitepoint.com/understanding-sass-units/) at SitePoint (26-02-2015)
 * [Breakpoints and tweakpoints in Sass](http://www.sitepoint.com/breakpoints-tweakpoints-sass/) at SitePoint (17-02-2015)
 * [Why I Don't Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/) at SitePoint (10-02-2015)
