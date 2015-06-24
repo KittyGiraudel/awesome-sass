@@ -24,6 +24,7 @@ A curated list of awesome Sass.
 
 ## On [my blog](http://hugogiraudel.com)
 
+* [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) by David Khourshid (18-06-2015)
 * [Translating Sass Guidelines](http://hugogiraudel.com/2015/02/03/translating-sass-guidelines/) (03-02-2015)
 * [Introducing Sass Guidelines](http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/) (07-01-2015)
 * [Calculating specificity in Sass](http://hugogiraudel.com/2014/11/25/specificity-in-sass/) by David Khourshid (25-11-2014)
