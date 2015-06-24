@@ -2,8 +2,9 @@
 
 A curated list of awesome Sass.
 
-## GitHub repositories
+## Projects
 
+* [Sass Reference](http://www.sitepoint.com/sass-reference/): SitePoint Sass Reference
 * [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
 * [Sass Guidelines](http://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
 * [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
@@ -68,6 +69,11 @@ A curated list of awesome Sass.
 
 ## At other places
 
+* [Introducing SitePoint Sass Reference](http://www.sitepoint.com/introducing-the-sitepoint-sass-reference/) at SitePoint (24-06-2015)
+* [Resting A Sass Library](http://www.sitepoint.com/testing-sass-library/) at SitePoint (23-06-2015)
+* [Testing A Sass Function in 5 Minutes](http://www.sitepoint.com/testing-sass-function-5-minutes/) at SitePoint (16-06-2015)
+* [Simple Gulp'y Workflow For Sass](http://www.sitepoint.com/simple-gulpy-workflow-sass/) at SitePoint (11-06-2015)
+* [Sass Mixin And Media Merging](http://www.sitepoint.com/sass-mixin-media-merging/) at SitePoint (02-06-2015)
 * [Sass Theming: The Neverending Story](http://www.sitepoint.com/sass-theming-neverending-story/) at SitePoint (26-05-2015)
 * [Understanding Sass Units](http://www.sitepoint.com/understanding-sass-units/) at SitePoint (26-02-2015)
 * [Breakpoints and tweakpoints in Sass](http://www.sitepoint.com/breakpoints-tweakpoints-sass/) at SitePoint (17-02-2015)
