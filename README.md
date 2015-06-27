@@ -153,7 +153,6 @@ A curated list of awesome Sass.
 * [Map extra functions](http://sassmeister.com/gist/f1fa4869678a4f16979c)
 * [Map API polyfill for Sass 3.2](http://sassmeister.com/gist//95d78632dc2e02b905ba)
 * [Initialize a comma-separated empty list](http://sassmeister.com/gist/a9e554b0e1a72a84fec7)
-* [Poor man's nth](http://sassmeister.com/gist/4326faf54855d9e42ff2)
 * [Dependency checker](http://sassmeister.com/gist/b7946f09300c1cd9abf0)
 * [Some() and every() functions](http://sassmeister.com/gist/b94b72435717a759d37f)
 * [Find max depth of a map](http://sassmeister.com/gist/3f1a07fd2703af2e4fef)
