@@ -1,6 +1,6 @@
 # Awesome Sass
 
-A curated list of awesome Sass.
+**Disclaimer!** Fair warning: this list is a way for me to keep track of all my work around Sass. For this reason, I do not accept pull-requests. That being said I am willing to have another version of this list with everbody's work, even if it means renaming this repository. :)
 
 ## Projects
 
