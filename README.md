@@ -70,6 +70,8 @@
 
 ## At other places
 
+* [Getting Started with SCSS-lint](http://www.sitepoint.com/getting-started-with-scss-lint/) at SitePoint (25-06-2015)
+* [Structuring CSS Class Selectors with Sass](http://www.sitepoint.com/structuring-css-class-selectors-with-sass/) at SitePoint (09-07-2015)
 * [Introducing SitePoint Sass Reference](http://www.sitepoint.com/introducing-the-sitepoint-sass-reference/) at SitePoint (24-06-2015)
 * [Testing A Sass Library](http://www.sitepoint.com/testing-sass-library/) at SitePoint (23-06-2015)
 * [Testing A Sass Function in 5 Minutes](http://www.sitepoint.com/testing-sass-function-5-minutes/) at SitePoint (16-06-2015)
