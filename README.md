@@ -70,6 +70,9 @@
 
 ## At other places
 
+* [Using @error responsibly in Sass](http://www.sitepoint.com/using-error-responsibly-in-sass/) at SitePoint (11-08-2015)
+* [An easy way to document your Sass code](http://www.creativebloq.com/web-design/easy-way-document-your-sass-code-61515222) at CreativeBloq (27-07-2015)
+* [Centering With Sass](http://www.sitepoint.com/centering-with-sass/) at SitePoint (16-07-2015)
 * [Getting Started with SCSS-lint](http://www.sitepoint.com/getting-started-with-scss-lint/) at SitePoint (25-06-2015)
 * [Structuring CSS Class Selectors with Sass](http://www.sitepoint.com/structuring-css-class-selectors-with-sass/) at SitePoint (09-07-2015)
 * [Introducing SitePoint Sass Reference](http://www.sitepoint.com/introducing-the-sitepoint-sass-reference/) at SitePoint (24-06-2015)
