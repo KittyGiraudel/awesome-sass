@@ -2,6 +2,10 @@
 
 **Disclaimer!** Fair warning: this list is a way for me to keep track of all my work around Sass. For this reason, I do not accept pull-requests. That being said I am willing to have another version of this list with everbody's work, even if it means renaming this repository. :)
 
+## Books
+
+* [Jump Start Sass](http://howsass.works): a beginner’s guide to get started with Sass
+
 ## Projects
 
 * [Sass Reference](http://www.sitepoint.com/sass-reference/): SitePoint Sass Reference
