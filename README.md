@@ -13,7 +13,7 @@
 * [Sass Guidelines](http://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
 * [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
 * [Sass-Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate): a Sass boilerplate sticking to Sass Guidelines
-* [sass-semver](https://github.com/HugoGiraudel/sass-semver): a SemVer parser in Sass
+* [Sass-semver](https://github.com/HugoGiraudel/sass-semver): a SemVer parser in Sass
 * [SassyTester](https://github.com/HugoGiraudel/SassyTester): a minimalister function tester in Sass
 * [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
 * [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
