@@ -10,7 +10,7 @@
 
 * [Sass Reference](http://www.sitepoint.com/sass-reference/): SitePoint Sass Reference
 * [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
-* [Sass Guidelines](http://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
+* [Sass Guidelines](https://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
 * [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
 * [Sass-Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate): a Sass boilerplate sticking to Sass Guidelines
 * [Sass-semver](https://github.com/HugoGiraudel/sass-semver): a SemVer parser in Sass
