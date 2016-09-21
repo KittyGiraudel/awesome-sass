@@ -74,6 +74,10 @@
 
 ## At other places
 
+* [Tilted Angles in Sass](https://www.sitepoint.com/tilted-angles-in-sass/) at SitePoint (21-09-2016)
+* [A Tale of CSS and Sass Precision](https://www.sitepoint.com/a-tale-of-css-and-sass-precision/) at SitePoint (12-05-2016)
+* [Introducing our Newest Book: Jump Start Sass](https://www.sitepoint.com/introducing-our-newest-book-jump-start-sass/) at SitePoint (04-04-2016)
+* [Cleaning Up A CSS Codebase](https://www.sitepoint.com/cleaning-up-a-css-codebase/) at SitePoint (09-03-2016)
 * [Using @error responsibly in Sass](http://www.sitepoint.com/using-error-responsibly-in-sass/) at SitePoint (11-08-2015)
 * [An easy way to document your Sass code](http://www.creativebloq.com/web-design/easy-way-document-your-sass-code-61515222) at CreativeBloq (27-07-2015)
 * [Centering With Sass](http://www.sitepoint.com/centering-with-sass/) at SitePoint (16-07-2015)
