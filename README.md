@@ -25,6 +25,7 @@
 * [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
 * [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
 * [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
+* [SassySkeleton](https://github.com/lucasconstantino/SassySkeleton): a boilerplate for better structured styles based on Sass & Compass.
 
 ## On [my blog](http://hugogiraudel.com)
 
