@@ -12,65 +12,65 @@
 * [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
 * [Sass Guidelines](https://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
 * [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
-* [Sass-Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate): a Sass boilerplate sticking to Sass Guidelines
-* [Sass-semver](https://github.com/HugoGiraudel/sass-semver): a SemVer parser in Sass
-* [SassyTester](https://github.com/HugoGiraudel/SassyTester): a minimalister function tester in Sass
-* [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
-* [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
-* [SassyJSON](https://github.com/HugoGiraudel/SassyJSON): a JSON encoder/decoder in Sass
+* [Sass-Boilerplate](https://github.com/KittyGiraudel/sass-boilerplate): a Sass boilerplate sticking to Sass Guidelines
+* [Sass-semver](https://github.com/KittyGiraudel/sass-semver): a SemVer parser in Sass
+* [SassyTester](https://github.com/KittyGiraudel/SassyTester): a minimalister function tester in Sass
+* [SassyBitwise](https://github.com/KittyGiraudel/SassyBitwise): bitwise operators implemented in Sass
+* [SassyCast](https://github.com/KittyGiraudel/SassyCast): a small lib for type conversion across data types
+* [SassyJSON](https://github.com/KittyGiraudel/SassyJSON): a JSON encoder/decoder in Sass
 * [SassyLists](https://github.com/Team-Sass/SassyLists): a collection of functions to manipulate lists
-* [SassyMatrix](https://github.com/HugoGiraudel/SassyMatrix): a collection of functions to manipulate matrices
-* [SassySort](https://github.com/HugoGiraudel/SassySort): a Sass sorting function using various algorithms
+* [SassyMatrix](https://github.com/KittyGiraudel/SassyMatrix): a collection of functions to manipulate matrices
+* [SassySort](https://github.com/KittyGiraudel/SassySort): a Sass sorting function using various algorithms
 * [SassyStrings](https://github.com/Team-Sass/Sassy-Strings): a collection of functions to manipulate strings
-* [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
-* [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
-* [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
+* [SassyLogger](https://github.com/KittyGiraudel/SassyLogger): a message logger in Sass
+* [SassyGradients](https://github.com/KittyGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
+* [SassyIteratorsGenerators](https://github.com/KittyGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
 
-## On [my blog](http://hugogiraudel.com)
+## On [my blog](https://kittygiraudel.com)
 
-* [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) by David Khourshid (18-06-2015)
-* [Translating Sass Guidelines](http://hugogiraudel.com/2015/02/03/translating-sass-guidelines/) (03-02-2015)
-* [Introducing Sass Guidelines](http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/) (07-01-2015)
-* [Calculating specificity in Sass](http://hugogiraudel.com/2014/11/25/specificity-in-sass/) by David Khourshid (25-11-2014)
-* [Rethinking Atwood's law](http://hugogiraudel.com/2014/10/27/rethinking-atwoods-law/) (27-10-2014)
-* [Translation system in Sass](http://hugogiraudel.com/2014/10/22/translation-system-in-sass/) (22-10-2014)
-* [SassDoc and semantic versioning](http://hugogiraudel.com/2014/09/01/sassdoc-and-semantic-versioning/) (01-09-2014)
-* [Automating CSS animations with Sass](http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/) (16-07-2014)
-* [Building a customization API in Sass](http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/) by Ezekiel Gabrielse (01-07-2014)
-* [A new Sass mixin for offsets](http://hugogiraudel.com/2014/05/19/new-offsets-sass-mixin/) (19-05-2014)
-* [Modernizr Sass mixin](http://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/) by Daniel Guillan (12-05-2014)
-* [Bringing configuration objects to Sass](http://hugogiraudel.com/2014/05/05/bringing-configuration-objects-to-sass/) (05-05-2014)
-* [Casting a map into a list in Sass](http://hugogiraudel.com/2014/04/28/casting-map-into-list/) (28-04-2014)
-* [Building a walk function in Sass](http://hugogiraudel.com/2014/04/14/building-a-walk-function-in-sass/) (14-04-2014)
-* [What to do with a Sass list](http://hugogiraudel.com/2014/04/07/what-to-do-with-a-sass-list/) (07-04-2014)
-* [Pushing Sass placeholders further](http://hugogiraudel.com/2014/04/01/pushing-sass-placeholders-further/) (01-04-2014)
-* [Getting the most out of Sass placeholders](http://hugogiraudel.com/2014/03/31/getting-the-most-out-of-sass-placeholders/) (31-03-2014)
-* [SassyMatrix: because one dimension wasn't enough](http://hugogiraudel.com/2014/03/25/sassy-matrix-because-one-dimension-wasnt-enough/) (25-03-2014)
-* [SassySort: sorting algorithms in Sass](http://hugogiraudel.com/2014/03/18/sassy-sort/) (18-03-2014)
-* [Another Sass button library](http://hugogiraudel.com/2014/03/03/another-sass-button-library/) (03-03-2014)
-* [Star rating widget with Sass](http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/) (24-02-2014)
-* [SassyCast: Type conversion in Sass](http://hugogiraudel.com/2014/01/27/casting-types-in-sass/) (27-01-2014)
-* [SassyJSON: Talk to the browser!](http://hugogiraudel.com/2014/01/20/json-in-sass/) (20-01-2014)
-* [Casting a string to number in Sass](http://hugogiraudel.com/2014/01/15/sass-string-to-number/) (15-01-2014)
-* [String replacement function in Sass](http://hugogiraudel.com/2014/01/13/sass-string-replacement-function/) (13-01-2014)
-* [Sass brainfuck](http://hugogiraudel.com/2013/11/28/sass-brainfuck/) (28-11-2013)
-* [How I made a Sass debug function](http://hugogiraudel.com/2013/10/21/sass-debug/) (21-10-2013)
-* [Random function with Sass 3.3](http://hugogiraudel.com/2013/10/17/sass-random/) (17-10-2013)
-* [Advanced Sass list functions again](http://hugogiraudel.com/2013/10/09/advanced-sass-list-functions-again/) (09-10-2013)
-* [Use lengths not strings](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/) (03-09-2013)
-* [A couple of Sass functions](http://hugogiraudel.com/2013/08/12/sass-functions/) (12-08-2013)
-* [Advanced Sass list functions](http://hugogiraudel.com/2013/08/08/advanced-sass-list-functions/) (08-08-2013)
-* [Sass mixin for offsets](http://hugogiraudel.com/2013/08/05/offsets-sass-mixin/) (05-08-2013)
-* [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/) (15-07-2013)
-* [Digging into my slides about Sass](http://hugogiraudel.com/2013/07/08/digging-into-my-slides-sass/) (08-07-2013)
-* [Items on circle with Sass](http://hugogiraudel.com/2013/04/02/items-on-circle/) (02-04-2013)
-* [8 Compass extensions you may not know](http://hugogiraudel.com/2013/03/25/compass-extensions/) (25-03-2013)
-* [The ultimate PX/Rem mixin](http://hugogiraudel.com/2013/03/18/ultimate-rem-mixin/) (18-03-2013)
-* [Can I afford a preprocessor?](http://hugogiraudel.com/2013/03/14/css-preprocessors/) (14-03-2013)
-* [Sassy Media queries](http://hugogiraudel.com/2013/02/27/sassy-media-queries/) (27-02-2013)
-* [Sassify a CSS shape](http://hugogiraudel.com/2013/02/18/sass-mixin-star/) (18-02-2013)
-* [A closer look at my Sass structure](http://hugogiraudel.com/2013/02/11/sass-structure/) (11-02-2013)
-* [Why I switched from LESS to Sass](http://hugogiraudel.com/2012/11/13/less-to-sass/) (13-11-2012)
+* [Styling React Components in Sass](https://kittygiraudel.com/2015/06/18/styling-react-components-in-sass/) by David Khourshid (18-06-2015)
+* [Translating Sass Guidelines](https://kittygiraudel.com/2015/02/03/translating-sass-guidelines/) (03-02-2015)
+* [Introducing Sass Guidelines](https://kittygiraudel.com/2015/01/07/introducing-sass-guidelines/) (07-01-2015)
+* [Calculating specificity in Sass](https://kittygiraudel.com/2014/11/25/specificity-in-sass/) by David Khourshid (25-11-2014)
+* [Rethinking Atwood's law](https://kittygiraudel.com/2014/10/27/rethinking-atwoods-law/) (27-10-2014)
+* [Translation system in Sass](https://kittygiraudel.com/2014/10/22/translation-system-in-sass/) (22-10-2014)
+* [SassDoc and semantic versioning](https://kittygiraudel.com/2014/09/01/sassdoc-and-semantic-versioning/) (01-09-2014)
+* [Automating CSS animations with Sass](https://kittygiraudel.com/2014/07/16/automating-css-animations-with-sass/) (16-07-2014)
+* [Building a customization API in Sass](https://kittygiraudel.com/2014/07/01/building-a-customization-api-in-sass/) by Ezekiel Gabrielse (01-07-2014)
+* [A new Sass mixin for offsets](https://kittygiraudel.com/2014/05/19/new-offsets-sass-mixin/) (19-05-2014)
+* [Modernizr Sass mixin](https://kittygiraudel.com/2014/05/12/modernizr-sass-mixin/) by Daniel Guillan (12-05-2014)
+* [Bringing configuration objects to Sass](https://kittygiraudel.com/2014/05/05/bringing-configuration-objects-to-sass/) (05-05-2014)
+* [Casting a map into a list in Sass](https://kittygiraudel.com/2014/04/28/casting-map-into-list/) (28-04-2014)
+* [Building a walk function in Sass](https://kittygiraudel.com/2014/04/14/building-a-walk-function-in-sass/) (14-04-2014)
+* [What to do with a Sass list](https://kittygiraudel.com/2014/04/07/what-to-do-with-a-sass-list/) (07-04-2014)
+* [Pushing Sass placeholders further](https://kittygiraudel.com/2014/04/01/pushing-sass-placeholders-further/) (01-04-2014)
+* [Getting the most out of Sass placeholders](https://kittygiraudel.com/2014/03/31/getting-the-most-out-of-sass-placeholders/) (31-03-2014)
+* [SassyMatrix: because one dimension wasn't enough](https://kittygiraudel.com/2014/03/25/sassy-matrix-because-one-dimension-wasnt-enough/) (25-03-2014)
+* [SassySort: sorting algorithms in Sass](https://kittygiraudel.com/2014/03/18/sassy-sort/) (18-03-2014)
+* [Another Sass button library](https://kittygiraudel.com/2014/03/03/another-sass-button-library/) (03-03-2014)
+* [Star rating widget with Sass](https://kittygiraudel.com/2014/02/24/star-rating-system-with-sass/) (24-02-2014)
+* [SassyCast: Type conversion in Sass](https://kittygiraudel.com/2014/01/27/casting-types-in-sass/) (27-01-2014)
+* [SassyJSON: Talk to the browser!](https://kittygiraudel.com/2014/01/20/json-in-sass/) (20-01-2014)
+* [Casting a string to number in Sass](https://kittygiraudel.com/2014/01/15/sass-string-to-number/) (15-01-2014)
+* [String replacement function in Sass](https://kittygiraudel.com/2014/01/13/sass-string-replacement-function/) (13-01-2014)
+* [Sass brainfuck](https://kittygiraudel.com/2013/11/28/sass-brainfuck/) (28-11-2013)
+* [How I made a Sass debug function](https://kittygiraudel.com/2013/10/21/sass-debug/) (21-10-2013)
+* [Random function with Sass 3.3](https://kittygiraudel.com/2013/10/17/sass-random/) (17-10-2013)
+* [Advanced Sass list functions again](https://kittygiraudel.com/2013/10/09/advanced-sass-list-functions-again/) (09-10-2013)
+* [Use lengths not strings](https://kittygiraudel.com/2013/09/03/use-lengths-not-strings/) (03-09-2013)
+* [A couple of Sass functions](https://kittygiraudel.com/2013/08/12/sass-functions/) (12-08-2013)
+* [Advanced Sass list functions](https://kittygiraudel.com/2013/08/08/advanced-sass-list-functions/) (08-08-2013)
+* [Sass mixin for offsets](https://kittygiraudel.com/2013/08/05/offsets-sass-mixin/) (05-08-2013)
+* [Understanding Sass lists](https://kittygiraudel.com/2013/07/15/understanding-sass-lists/) (15-07-2013)
+* [Digging into my slides about Sass](https://kittygiraudel.com/2013/07/08/digging-into-my-slides-sass/) (08-07-2013)
+* [Items on circle with Sass](https://kittygiraudel.com/2013/04/02/items-on-circle/) (02-04-2013)
+* [8 Compass extensions you may not know](https://kittygiraudel.com/2013/03/25/compass-extensions/) (25-03-2013)
+* [The ultimate PX/Rem mixin](https://kittygiraudel.com/2013/03/18/ultimate-rem-mixin/) (18-03-2013)
+* [Can I afford a preprocessor?](https://kittygiraudel.com/2013/03/14/css-preprocessors/) (14-03-2013)
+* [Sassy Media queries](https://kittygiraudel.com/2013/02/27/sassy-media-queries/) (27-02-2013)
+* [Sassify a CSS shape](https://kittygiraudel.com/2013/02/18/sass-mixin-star/) (18-02-2013)
+* [A closer look at my Sass structure](https://kittygiraudel.com/2013/02/11/sass-structure/) (11-02-2013)
+* [Why I switched from LESS to Sass](https://kittygiraudel.com/2012/11/13/less-to-sass/) (13-11-2012)
 
 ## At other places
 
@@ -205,4 +205,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Hugo Giraudel](http://hugogiraudel.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Kitty Giraudel](https://kittygiraudel.com) has waived all copyright and related or neighboring rights to this work.
